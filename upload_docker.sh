@@ -11,7 +11,7 @@ dockerpath="kweeku/udaprojectdemo"
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login
-docker tag projectml $dockerpath
+docker tag udaprojectdemo $dockerpath
 
 # Step 3:
 # Push image to a docker repository
