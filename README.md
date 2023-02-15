@@ -1,10 +1,11 @@
-[![CircleCI]([![CircleCI](https://dl.circleci.com/status-badge/img/gh/Kweeku/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Kweeku/project-ml-microservice-kubernetes/tree/main))
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Kweeku/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Kweeku/project-ml-microservice-kubernetes/tree/main)
 
 # Operationalize a Machine Learning Microservice API
 
 This Microservice Project is part of the Udacity Cloud DevOps Engineer Nanodegree
 
-![Screenshot](https://files.fm/down.php?i=q4hwh3j3h)
+![Alt text](/screenshots/Frontend.png?raw=true "Frontend App")
+
 
 ## Project Overview
 
